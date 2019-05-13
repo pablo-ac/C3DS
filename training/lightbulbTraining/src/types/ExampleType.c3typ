@@ -1,0 +1,8 @@
+/**
+* ExampleType.c3typ
+*/
+entity type ExampleType mixes MetricEvaluatable schema name "EXMPL" { 
+ exampleInt : integer 
+ exampleDouble : double 
+ exampleString : string 
+}
